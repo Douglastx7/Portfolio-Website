@@ -403,12 +403,14 @@ img {
   width: 95%;
 }
 .skills__css {
-  width: 85%;
+  width: 90%;
 }
 .skills__js {
+  width: 85%;
+}
+.skills__react {
   width: 65%;
 }
-
 .skills__ux {
   width: 50%;
 }
